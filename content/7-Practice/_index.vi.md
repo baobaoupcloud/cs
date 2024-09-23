@@ -8,7 +8,7 @@ pre : " <b> 7. </b> "
 Chúng ta có thể áp dụng các phần học trong tuần này để tạo khối trong **Mario**. Ví dụ: 
 
 Dựng thanh ngang tạo bởi 4 khối `?`
-![mario](https://raw.githubusercontent.com/baobaoupcloud/cs-w1/main/static/images/7.practice/1practice.png)
+![mario](https://raw.githubusercontent.com/baobaoupcloud/cs/main/static/images/7.practice/1practice.png)
 Trong cửa sổ terminal, gõ `code mario.c` và viết mã như sau:
 
 ```bash
@@ -24,7 +24,7 @@ for (int i = 0; i < 4; i++)
 }
 ```
 Tương tự, chúng ta có thể tạo cột dọc từ 3 khối
-![mario](https://raw.githubusercontent.com/baobaoupcloud/cs-w1/main/static/images/7.practice/2practice.png)
+![mario](https://raw.githubusercontent.com/baobaoupcloud/cs/main/static/images/7.practice/2practice.png)
 
 Viết đoạn mã như sau:
 ```bash
