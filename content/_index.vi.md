@@ -4,7 +4,7 @@ date :  "`r Sys.Date()`"
 weight : 1 
 chapter : false
 ---
-# CS50 Week 1 - C
+# CS50 Tuần 1 - C
 
 ### Tổng quan
 Workshop này là ghi chú nhỏ cho khoá học CS50. Ở tuần đầu tiên, chúng ta đi qua các nội dung sau.
