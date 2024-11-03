@@ -15,5 +15,5 @@ This workshop is a learning note of CS50 course. In the first week, we will disc
  3. [Variables](3-Variables/)
  4. [Conditionals](4-Conditionals/)
  5. [Loops](5-Loops/)
- 6. [Operators-and-functions](Operators-and-functions/)
+ 6. [Operators-and-functions](6-Operators-and-functions/)
  7. [Practice](7-Practice/)
