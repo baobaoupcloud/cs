@@ -15,5 +15,5 @@ Workshop này là ghi chú nhỏ cho khoá học CS50. Ở tuần đầu tiên, 
  3. [Biến](3-Variables/)
  4. [Điều-kiện](4-Conditionals/)
  5. [Vòng-lặp](5-Loops/)
- 6. [Toán-tử-và-hàm](Operators-and-functions/)
+ 6. [Toán-tử-và-hàm](6-Operators-and-functions/)
  7. [Thực-hành](7-Practice/)
